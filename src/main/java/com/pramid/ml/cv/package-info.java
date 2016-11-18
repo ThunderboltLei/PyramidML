@@ -3,10 +3,10 @@
  */
 /**
  * @Auther: leimingming.lm（花名：穆雷）<br>
- * @Date: Nov 18, 2016 11:35:16 AM<br>
+ * @Date: Nov 18, 2016 11:14:04 AM<br>
  * @Project: dpmp-ml<br>
- * @Package: com.autonavi.dpmp.nlp.mallet<br>
+ * @Package: com.pramid.dpmp.cv<br>
  * @File: package-info.java<br>
- * @Description: <br>
+ * @Description: computing version<br>
  */
-package com.autonavi.dpmp.nlp.mallet;
+package com.pramid.ml.cv;

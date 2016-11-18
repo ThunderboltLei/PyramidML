@@ -1,7 +1,7 @@
 /**
  * Copyright (c) on Alibaba GaoDe.
  */
-package com.autonavi.dpmp.ml.encog;
+package com.pramid.ml.ml.encog;
 
 import org.encog.util.text.BagOfWords;
 import org.slf4j.Logger;
@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
  * @Auther: leimingming.lm（花名：穆雷）<br>
  * @Date: Nov 17, 2016 4:30:00 PM<br>
  * @Project: dpmp-ml<br>
- * @Package: com.autonavi.dpmp.ml.test<br>
+ * @Package: com.pramid.ml.ml.test<br>
  * @File: Test01.java<br>
  * @Description: <br>
  */
