@@ -1,7 +1,7 @@
 /**
  * Copyright (c) on Alibaba GaoDe.
  */
-package com.autonavi.dpmp.cv;
+package com.pramid.test.ml.cv;
 
 /**
  * @Auther: leimingming.lm（花名：穆雷）<br>

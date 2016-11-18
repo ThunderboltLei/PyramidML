@@ -1,11 +1,13 @@
 /**
  * Copyright (c) on Alibaba GaoDe.
  */
-package com.autonavi.dpmp.ml.pcs;
+package com.pramid.test.ml.alg.pcs;
 
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import com.pramid.ml.ml.pcs.PearsonCorrelationScore;
 
 /**
  * @Auther: leimingming.lm（花名：穆雷）<br>
